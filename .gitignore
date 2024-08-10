@@ -1,2 +1,7 @@
-myenv/
+myenv/etc
+myenv/include
+myenv/lib
+myenv/pyenv.cfg
+myenv/share
+myenv/bin
 .DS_Store
